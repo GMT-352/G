@@ -23,10 +23,10 @@ __Objectives of the project:__
 -The easing of the effects of the earthquake thanks to the ability of people to reach safe areas.
 
 ## Requirements:
-- 1. To access the necessary data for the identification of safe areas through the open street map and to examine their distance to the earthquake-affected areas.
-- 2. After accessing the data, to process the data with a GIS software tool (for example: Qgis). 
-- 3. Determination of these areas after the safe areas have been finalized.
-- 4. Provision of equipment to the areas to meet the needs of earthquake victims.
+- To access the necessary data for the identification of safe areas through the open street map and to examine their distance to the earthquake-affected areas.
+- After accessing the data, to process the data with a GIS software tool (for example: Qgis). 
+- Determination of these areas after the safe areas have been finalized.
+- Provision of equipment to the areas to meet the needs of earthquake victims.
 
-__Data:__ 
+## Data: 
 - Open Street Map
