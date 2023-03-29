@@ -35,7 +35,10 @@ __Objectives of the project:__
 
 
 ![WhatsApp Image 2023-03-29 at 13 38 01](https://user-images.githubusercontent.com/112273153/228534141-fe0e1cd5-7bc9-4830-a7a4-6832a34c1a97.jpeg)
+
 ![WhatsApp Image 2023-03-29 at 13 43 18](https://user-images.githubusercontent.com/112273153/228534161-dc3b3c7b-a16e-44a0-a260-4c81df93b045.jpeg)
+
 ![WhatsApp Image 2023-03-29 at 13 43 53](https://user-images.githubusercontent.com/112273153/228534186-1d93939f-1f07-40fa-8ea8-ff95b1fdb130.jpeg)
+
 ![WhatsApp Image 2023-03-29 at 13 44 20](https://user-images.githubusercontent.com/112273153/228534197-6e1dcda8-e8c7-442c-b44f-e59114719977.jpeg)
 
