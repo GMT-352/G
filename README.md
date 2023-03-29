@@ -37,11 +37,12 @@ __Objectives of the project:__
 
 ![WhatsApp Image 2023-03-29 at 13 43 53](https://user-images.githubusercontent.com/112273153/228534186-1d93939f-1f07-40fa-8ea8-ff95b1fdb130.jpeg)
 
+![WhatsApp Image 2023-03-29 at 13 44 20](https://user-images.githubusercontent.com/112273153/228534197-6e1dcda8-e8c7-442c-b44f-e59114719977.jpeg)
+
 ![WhatsApp Image 2023-03-29 at 13 38 01](https://user-images.githubusercontent.com/112273153/228534141-fe0e1cd5-7bc9-4830-a7a4-6832a34c1a97.jpeg)
 
 ![WhatsApp Görsel 2023-03-29 saat 15 29 05](https://user-images.githubusercontent.com/117678669/228553609-50dc52c5-f5b3-4883-a596-40050be7ea43.jpg)
 
-![WhatsApp Image 2023-03-29 at 13 44 20](https://user-images.githubusercontent.com/112273153/228534197-6e1dcda8-e8c7-442c-b44f-e59114719977.jpeg)
 
 
 
