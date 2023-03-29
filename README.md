@@ -11,4 +11,5 @@
 
 ### Project Title: Safe assembly areas after the February 6 earthquake in Hatay
 
-### A case study (region of interests): Mitigating effects of the 6 February earthquake.
+### A case study (region of interests): 
+##### Mitigating effects of the 6 February earthquake.
