@@ -1,6 +1,6 @@
 
 
-# GMT352 GEOGRAPHIC INFIRMATION SYSTEMS 
+# GMT352 GEOGRAPHIC INF0RMATION SYSTEMS 
 # - Asude Nurun Akgümüş 21967263
 # - Asya Arslan 
 # - Rümeysa Keleş
