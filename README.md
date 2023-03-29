@@ -10,9 +10,9 @@
 ## One Requirement, One Map on SDG #11
 
 ## Project Title
-#### Safe assembly areas after the February 6 earthquake in Hatay
+Safe assembly areas after the February 6 earthquake in Hatay
 
 ## A Case Study (Region of Interests)
-#### Mitigating effects of the 6 February earthquake.
+Mitigating effects of the 6 February earthquake.
 ## Aim of The Project
-#### The aim of this project is detection of areas such as parks and school gardens in Hatay due to unsafe areas brought about by the February 6 earthquake.
+The aim of this project is detection of areas such as parks and school gardens in Hatay due to unsafe areas brought about by the February 6 earthquake.
