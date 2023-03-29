@@ -56,5 +56,9 @@ __Objectives of the project:__
 
 ![Ekran görüntüsü 2023-03-29 203508](https://user-images.githubusercontent.com/112273153/228622225-84987d01-4b7d-4c7e-ada8-8259a05d1ae7.png)
 
+![m1](https://user-images.githubusercontent.com/112273153/228648394-6bf700ed-e417-4194-8fed-80994d32c797.png)
+
+
+
 - MAP BY RUMEYSA NUR KELEŞ
 - ![image](https://user-images.githubusercontent.com/92017752/228645537-1040e7bb-c4fc-4e1b-895f-829b3e4b30d9.png)
