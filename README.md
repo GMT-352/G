@@ -9,4 +9,4 @@
 
 ## One Requirement, One Map on SDG #11
 
-### Project Title: Safe assembly areas after the February 6 earthquake in Hatay
+### Project Title: Safe assembly areas after the February 6 earthquake in Hatayyy
