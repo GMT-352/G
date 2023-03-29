@@ -42,5 +42,7 @@ __Objectives of the project:__
 
 ![WhatsApp Image 2023-03-29 at 13 44 20](https://user-images.githubusercontent.com/112273153/228534197-6e1dcda8-e8c7-442c-b44f-e59114719977.jpeg)
 
+![WhatsApp Görsel 2023-03-29 saat 15 29 05](https://user-images.githubusercontent.com/117678669/228553609-50dc52c5-f5b3-4883-a596-40050be7ea43.jpg)
+
 ## Maps
 ![image](https://user-images.githubusercontent.com/117678669/228552925-add87e08-a355-48ba-992c-612da2523788.png)
