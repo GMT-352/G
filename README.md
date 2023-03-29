@@ -56,7 +56,8 @@ __Objectives of the project:__
 
 ![m1](https://user-images.githubusercontent.com/112273153/228648394-6bf700ed-e417-4194-8fed-80994d32c797.png)
 
-
-
 - MAP BY RUMEYSA NUR KELEŞ
 - ![image](https://user-images.githubusercontent.com/92017752/228645537-1040e7bb-c4fc-4e1b-895f-829b3e4b30d9.png)
+
+- MAP BY ILIM NAZ ŞENOL
+- ![Screenshot](https://user-images.githubusercontent.com/122312006/228653716-57491f3e-1755-45c4-927c-4bf82f17d56b.jpg)
