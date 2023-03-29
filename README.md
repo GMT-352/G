@@ -46,5 +46,13 @@ __Objectives of the project:__
 
 
 
-## Map
+## Maps
+
+- MAP BY ASYA ARSLAN
+
 ![image](https://user-images.githubusercontent.com/117678669/228552925-add87e08-a355-48ba-992c-612da2523788.png)
+
+- MAP BY ASUDE NURUN AKGUMUS
+
+![Ekran görüntüsü 2023-03-29 203508](https://user-images.githubusercontent.com/112273153/228622225-84987d01-4b7d-4c7e-ada8-8259a05d1ae7.png)
+
