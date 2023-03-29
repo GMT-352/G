@@ -54,8 +54,6 @@ __Objectives of the project:__
 
 - MAP BY ASUDE NURUN AKGUMUS
 
-![Ekran görüntüsü 2023-03-29 203508](https://user-images.githubusercontent.com/112273153/228622225-84987d01-4b7d-4c7e-ada8-8259a05d1ae7.png)
-
 ![m1](https://user-images.githubusercontent.com/112273153/228648394-6bf700ed-e417-4194-8fed-80994d32c797.png)
 
 
