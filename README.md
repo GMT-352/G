@@ -18,6 +18,9 @@ Mitigating effects of the 6 February earthquake.
 __Aim of Project:__  The aim of this project is detection of areas such as parks and school gardens in Hatay due to unsafe areas brought about by the February 6 earthquake.
 
 __Objectives of the project:__ 
-- detection of safe zones ( school gardens and parking areas) that have decreased after the earthquake and whose exact locations are unknown.
+- Detection of safe zones ( school gardens and parking areas) that have decreased after the earthquake and whose exact locations are unknown.
 - With the availability of safe areas, people are directed to these areas.
 -The easing of the effects of the earthquake thanks to the ability of people to reach safe areas.
+
+__Data:__ 
+- Open Street Map
