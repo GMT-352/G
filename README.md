@@ -1,10 +1,10 @@
 
 
 # GMT352 GEOGRAPHIC INF0RMATION SYSTEMS 
-# - Asude Nurun Akgümüş 21967263
-# - Asya Arslan 
-# - Rümeysa Keleş
-# - Ilım Naz Şenol
+## - Asude Nurun Akgümüş 21967263
+## - Asya Arslan 
+## - Rümeysa Keleş
+## - Ilım Naz Şenol
 
 
 
