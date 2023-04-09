@@ -49,7 +49,7 @@ __Objectives of the project:__
 
 Tables:
 
-![image](https://user-images.githubusercontent.com/117678669/230759780-408e5e26-2326-4687-b6d5-f5ed17299005.png)
+![image](https://user-images.githubusercontent.com/117678669/230760149-8f72d6f5-ca26-4e3c-a649-350089911611.png)
 
 Table of school area:
 
