@@ -33,7 +33,7 @@ __Objectives of the project:__
 
 ## Screenshots of the project :
 
-Layers: 
+# Layers: 
 
 ![WhatsApp Image 2023-03-29 at 13 43 18](https://user-images.githubusercontent.com/112273153/228534161-dc3b3c7b-a16e-44a0-a260-4c81df93b045.jpeg)
 
@@ -45,11 +45,16 @@ Layers:
 
 ![WhatsApp Görsel 2023-03-29 saat 15 29 05](https://user-images.githubusercontent.com/117678669/228553609-50dc52c5-f5b3-4883-a596-40050be7ea43.jpg)
 
-Query:
+# Query:
+
+Table of school area:
 
 ![image](https://user-images.githubusercontent.com/117678669/230759780-408e5e26-2326-4687-b6d5-f5ed17299005.png)
 
+Table of park area:
+
 ![image](https://user-images.githubusercontent.com/117678669/230759796-6eef5dc2-8630-4399-9012-4adead97dfea.png)
+
 
 ![image](https://user-images.githubusercontent.com/117678669/230759810-9aa4ae51-a774-4b89-8d50-5440937d1447.png)
 
