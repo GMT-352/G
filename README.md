@@ -85,6 +85,7 @@ Query output:
 
 - MAP BY RUMEYSA NUR KELEŞ
 
+![map_of_hatay](https://user-images.githubusercontent.com/92017752/230790615-89acff77-4b90-412a-973d-cbb00d7c203b.png)
 
 - MAP BY ILIM NAZ ŞENOL
 
