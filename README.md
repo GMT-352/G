@@ -67,6 +67,10 @@ Query output:
 
 ![image](https://user-images.githubusercontent.com/117678669/230760035-666ababf-ed14-47a6-8f04-6292595b033f.png)
 
+![image](https://user-images.githubusercontent.com/117678669/230775624-76c52f58-bfb4-4d35-9d13-ab73d0bad72d.png)
+
+![image](https://user-images.githubusercontent.com/117678669/230775638-ef445fed-26ba-4d23-8998-9f5a4cb74f7b.png)
+
 ## Maps
 
 - MAP BY ASYA ARSLAN
