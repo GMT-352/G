@@ -61,7 +61,7 @@ Table of park area:
 
 Query showing the distance of a risky point to the nearest safe areas (park areas and school areas): 
 
-![image](https://user-images.githubusercontent.com/117678669/230759872-87b50fa8-d372-4a59-a858-206254e77b0e.png)
+![image](https://user-images.githubusercontent.com/117678669/230760233-860f6af0-8cf9-411a-868f-089359c49e96.png)
 
 Query output: 
 
