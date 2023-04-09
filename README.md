@@ -76,6 +76,7 @@ Query output:
 
 - MAP BY ASUDE NURUN AKGUMUS
 
+![map_of_hatay2](https://user-images.githubusercontent.com/112273153/230763383-ea99bf1e-c01c-4f42-83b5-a32e598b7664.png)
 
 
 - MAP BY RUMEYSA NUR KELEŞ
