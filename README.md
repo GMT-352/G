@@ -84,6 +84,7 @@ Query output:
 
 - MAP BY ILIM NAZ ŞENOL
 
-![Layout 1](https://user-images.githubusercontent.com/122312006/230765638-49f6ee5b-a2fb-48a3-8afb-63976fb71a73.png)
+![Layout 1](https://user-images.githubusercontent.com/122312006/230765723-1083ad22-45d2-49f0-8f09-9f5a7148f7d5.png)
+
 
 
