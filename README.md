@@ -47,19 +47,25 @@ __Objectives of the project:__
 
 # Query:
 
-Table of school area:
+Tables:
 
 ![image](https://user-images.githubusercontent.com/117678669/230759780-408e5e26-2326-4687-b6d5-f5ed17299005.png)
 
-Table of park area:
+Table of school area:
 
 ![image](https://user-images.githubusercontent.com/117678669/230759796-6eef5dc2-8630-4399-9012-4adead97dfea.png)
 
+Table of park area:
 
 ![image](https://user-images.githubusercontent.com/117678669/230759810-9aa4ae51-a774-4b89-8d50-5440937d1447.png)
 
+Query showing the distance of a risky point to the nearest safe areas (park areas and school areas): 
+
 ![image](https://user-images.githubusercontent.com/117678669/230759872-87b50fa8-d372-4a59-a858-206254e77b0e.png)
 
+Query output: 
+
+![image](https://user-images.githubusercontent.com/117678669/230760035-666ababf-ed14-47a6-8f04-6292595b033f.png)
 
 ## Maps
 
