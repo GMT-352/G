@@ -70,8 +70,9 @@ Query output:
 ## Maps
 
 - MAP BY ASYA ARSLAN
-- 
-![Uploading map_of_hatay.png…]()
+
+![map_of_hatay](https://user-images.githubusercontent.com/117678669/230762530-8fb6b05b-e54a-4302-826a-fcfede7684f0.png)
+
 
 - MAP BY ASUDE NURUN AKGUMUS
 
