@@ -33,6 +33,8 @@ __Objectives of the project:__
 
 ## Screenshots of the project :
 
+Layers: 
+
 ![WhatsApp Image 2023-03-29 at 13 43 18](https://user-images.githubusercontent.com/112273153/228534161-dc3b3c7b-a16e-44a0-a260-4c81df93b045.jpeg)
 
 ![WhatsApp Image 2023-03-29 at 13 43 53](https://user-images.githubusercontent.com/112273153/228534186-1d93939f-1f07-40fa-8ea8-ff95b1fdb130.jpeg)
@@ -43,24 +45,32 @@ __Objectives of the project:__
 
 ![WhatsApp Görsel 2023-03-29 saat 15 29 05](https://user-images.githubusercontent.com/117678669/228553609-50dc52c5-f5b3-4883-a596-40050be7ea43.jpg)
 
+Query:
 
+![image](https://user-images.githubusercontent.com/117678669/230759780-408e5e26-2326-4687-b6d5-f5ed17299005.png)
+
+![image](https://user-images.githubusercontent.com/117678669/230759796-6eef5dc2-8630-4399-9012-4adead97dfea.png)
+
+![image](https://user-images.githubusercontent.com/117678669/230759810-9aa4ae51-a774-4b89-8d50-5440937d1447.png)
+
+![image](https://user-images.githubusercontent.com/117678669/230759872-87b50fa8-d372-4a59-a858-206254e77b0e.png)
 
 
 ## Maps
 
 - MAP BY ASYA ARSLAN
 
-![image](https://user-images.githubusercontent.com/117678669/228552925-add87e08-a355-48ba-992c-612da2523788.png)
+
 
 - MAP BY ASUDE NURUN AKGUMUS
 
-![m1](https://user-images.githubusercontent.com/112273153/228648394-6bf700ed-e417-4194-8fed-80994d32c797.png)
+
 
 - MAP BY RUMEYSA NUR KELEŞ
-- ![image](https://user-images.githubusercontent.com/92017752/228645537-1040e7bb-c4fc-4e1b-895f-829b3e4b30d9.png)
+
 
 - MAP BY ILIM NAZ ŞENOL
-- ![Screenshot](https://user-images.githubusercontent.com/122312006/228653716-57491f3e-1755-45c4-927c-4bf82f17d56b.jpg)
+
 
 
 - deneme 
