@@ -80,7 +80,7 @@ Query output:
 
 - MAP BY ASUDE NURUN AKGUMUS
 
-![map_of_hatay2](https://user-images.githubusercontent.com/112273153/230763383-ea99bf1e-c01c-4f42-83b5-a32e598b7664.png)
+![map_of_hatay2](https://user-images.githubusercontent.com/112273153/230776948-c954379a-f735-45bc-a220-7d9e17008f37.png)
 
 
 - MAP BY RUMEYSA NUR KELEŞ
